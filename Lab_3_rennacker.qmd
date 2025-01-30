@@ -1,0 +1,15 @@
+---
+title: "Lab_3_rennacker"
+format: 
+  html:
+    code-fold: show
+    embed-resources: true
+execute: 
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: test
+#| fig_cap: "words here"
+```
